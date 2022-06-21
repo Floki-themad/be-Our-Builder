@@ -1,6 +1,7 @@
-const inquirer = require('inquirer');
+var inquirer = require('inquirer');
 
-console.log('its working');
+console.log('hello world.')
+
 // inquirer
 //   .prompt([{
 //       type: 'input',

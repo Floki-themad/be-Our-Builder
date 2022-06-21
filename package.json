@@ -1,18 +1,18 @@
 {
   "name": "be-our-builder",
   "version": "1.0.0",
-  "description": "readme builder",
+  "description": "an application to generate a README file.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Floki-themad/be-Our-Builder.git"
   },
+  "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Floki-themad/be-Our-Builder/issues"
   },
